@@ -15,7 +15,7 @@
 <p align="left">🎓 BSc  Electrical Engineering<br>✨ Let's Talk Data and establish valuable insights <br>📚 I'm currently learning AI and machine learning<br>🎯 Goals: Quant and Data Scientist (Stock Pricing Models)<br>🎲 Fun fact: Real Madrid is the best team in the world</p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXd5JvWH2TRO%2FZHMKRhPJMQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/ntando-gumede-62541a193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvIt%2Fw7n9SrKApJWjgY%2Fadw%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
