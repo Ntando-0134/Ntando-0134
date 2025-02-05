@@ -8,6 +8,8 @@
   </a>
 </p>
 
+
+
 ---
 
 <div align="center">
@@ -30,7 +32,7 @@
 ## 🌐 Socials:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/xia-vyan-daniels-562338202" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfH6fzBHgQbifpfVIVOf00Q%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 </div>
@@ -64,7 +66,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiryZex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" /> <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiryZex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ntando-0134x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Graph" />
 </div>
 
 ---
